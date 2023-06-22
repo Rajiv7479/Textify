@@ -1,6 +1,6 @@
-# Textutils
-
-Textutils gives you a way to analyze your text quickly and efficiently. Be it word count, character count ,converting to uppercase or anything.
+# Textify
+https://textify-text-n-fun.netlify.app/
+#Textify gives you a way to analyze your text quickly and efficiently. Be it word count, character count ,converting to uppercase or anything.
 
 ## Local Setup: 
 
@@ -10,7 +10,7 @@ Textutils gives you a way to analyze your text quickly and efficiently. Be it wo
 
  3) **Navigate to the project directory 📁.**
    ```
-   cd Textutils
+   cd Textify
    ```
  4) **Install the node packages.**  
    ```
